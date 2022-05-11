@@ -22,14 +22,14 @@
 }
 
 body {
-  background: #F7F9FC;
+  background: #A85CF9;
   color: #575F7D;
   font-family: 'Lora', serif;
   font-size: 17px;
   font-weight: lighter;
 }
 div{
-  background-color: white;
+  background-color: #b081e1;
   padding: 40px 0px;
   box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
   border-radius: 4px;
@@ -58,7 +58,7 @@ h2{
 
 a{
   text-decoration: none;
-  color: #a9a6a6;
+  color: #f1f1f1;
 }
 
 a:hover{
@@ -67,11 +67,15 @@ a:hover{
 }
 
 img{
+
+  width: 151px;
   border-radius: 50%;
+
 }
 p{
   padding: 30;
   margin: auto;
+  font-size: 23px;
 }
 a#button{
   background-color: #6B72E1;
